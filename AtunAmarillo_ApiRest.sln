@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtunAmarillo_ApiRest", "AtunAmarillo_ApiRest\AtunAmarillo_ApiRest.csproj", "{F5121423-2908-47D7-998D-CEF9D640351B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5121423-2908-47D7-998D-CEF9D640351B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5121423-2908-47D7-998D-CEF9D640351B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5121423-2908-47D7-998D-CEF9D640351B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5121423-2908-47D7-998D-CEF9D640351B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F07186E-F18D-4BB7-AFA6-A217FFA01510}
+	EndGlobalSection
+EndGlobal
